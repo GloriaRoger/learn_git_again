@@ -1,5 +1,5 @@
 
-           GIT EXERCISE 
+           GIT EXERCISE! 
 
 1. Create a folder called learn_git_again. 
 Answer: mkdir learn_git_again
